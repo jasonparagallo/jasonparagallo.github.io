@@ -28,8 +28,11 @@ Business Management Intern @ Enterprise Holdings | Wayne, NJ | May 2022 – Augu
 
 ### Projects
 
-[Amazon Fake Product Model](/assets/Amazon_Fake_Product_Model.ipynb)
+All created using [Google Colab](https://colab.google/)
 
+[Amazon Fake Product Model](/assets/Amazon_Fake_Product_Model.ipynb)
+- This was my final project for my Unstructured Data Analytics Course. The mission was to create a model that effectively detected whether a listing on Amazon was selling a fake product or not using the reviews of that particular product. The team that I worked with and I individually provided each review (852) a numerical represetation so our model could injest the data. We labeled reviews not mentioning quality issues/knockoff concerns as a 0, reviews that mentioned the product was potentially a knockoff a 1, and reviews we were unsure of a 2.
+    
 [Yelp Restaurant Clustering Model](/assets/Clustering_Model.ipynb)
 
 [NHL Prediction Model](/assets/NHL_Prediction_Model.ipynb)
