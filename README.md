@@ -28,12 +28,12 @@ Business Management Intern @ Enterprise Holdings | Wayne, NJ | May 2022 – Augu
 
 ### Projects
 
-![Amazon Fake Product Model](/assets/Amazon_Fake_Product_Model.ipynb)
+[Amazon Fake Product Model](/assets/Amazon_Fake_Product_Model.ipynb)
 
-![Yelp Restaurant Clustering Model](/assets/Clustering_Model.ipynb)
+[Yelp Restaurant Clustering Model](/assets/Clustering_Model.ipynb)
 
-![NHL Prediction Model](/assets/NHL_Prediction_Model.ipynb)
+[NHL Prediction Model](/assets/NHL_Prediction_Model.ipynb)
 
-![Various Machine Learning Models to Predict Yelp Restaurant Ratings](/assets/Preprocessing+LogisticRegression,SupportVectorMachine,DecisionTree,RandomForest,AdaBoost,NeuralNetwork,NaiveBayes.ipynb)
+[Various Machine Learning Models to Predict Yelp Restaurant Ratings](/assets/Preprocessing+LogisticRegression,SupportVectorMachine,DecisionTree,RandomForest,AdaBoost,NeuralNetwork,NaiveBayes.ipynb)
 
-![Word2Vec Model](/assets/Word2Vec_Model.ipynb)
+[Word2Vec Model](/assets/Word2Vec_Model.ipynb)
