@@ -25,3 +25,6 @@ Business Management Intern @ Enterprise Holdings | Wayne, NJ | May 2022 – Augu
 ### Certifications
 - Tableau Desktop Specialist [Certification](https://www.credly.com/badges/cf4bf743-45dc-409d-8784-00eecaf84855/public_url)
 - Microsoft Power BI For Business Intelligence [Certification](https://udemy-certificate.s3.amazonaws.com/pdf/UC-6c9c8345-8352-4e01-b066-a167d1f86920.pdf)
+
+### Projects
+
