@@ -28,3 +28,4 @@ Business Management Intern @ Enterprise Holdings | Wayne, NJ | May 2022 – Augu
 
 ### Projects
 
+![Amazon Fake Product Model](/assets/Amazon_Fake_Product_Model.ipynb)
