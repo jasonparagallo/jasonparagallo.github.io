@@ -1,5 +1,5 @@
 # Jason Paragallo
-973-800-4517 | jasonparagallo@gmail.com
+973-800-4517 | [jasonparagallo@gmail.com](jasonparagallo@gmail.com)
 
 ## Education
 - Montclair State University, Montclair, NJ
