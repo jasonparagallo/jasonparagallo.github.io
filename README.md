@@ -1,4 +1,4 @@
-# Data Analyst
+# Jason Paragallo
 
 ## Education
 - Montclair State University, Montclair, NJ
