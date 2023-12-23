@@ -34,9 +34,13 @@ All created using [Google Colab](https://colab.google/)
 - This was my final project for my Unstructured Data Analytics Course. The mission was to create a model that effectively detected whether a listing on Amazon was selling a fake product or not using the reviews of that particular product. The team that I worked with and I individually provided each review (852) a numerical represetation so our model could injest the data. We labeled reviews not mentioning quality issues/knockoff concerns as a 0, reviews that mentioned the product was potentially a knockoff a 1, and reviews we were unsure of a 2.
     
 [Yelp Restaurant Clustering Model](/assets/Clustering_Model.ipynb)
-
+- This clustering model aimed to cluster restaurants of similar cuisines utilizing Yelp reviews from restaurants local to NJ and NY. The model was able to effectivley decipher different styles of cuisine and group them with competitors.
+  
 [NHL Prediction Model](/assets/NHL_Prediction_Model.ipynb)
+- This was my final project for my Structured Data Analytics Course. The team that I had worked and I had decided to create a model that predicted the outcome of National Hockey League games. This was a particularly fun project since our group was all fans of the sport so we were able to run our model each night of the NHL season to see how our model was performing in that years current season.
 
 [Various Machine Learning Models to Predict Yelp Restaurant Ratings](/assets/Preprocessing+LogisticRegression,SupportVectorMachine,DecisionTree,RandomForest,AdaBoost,NeuralNetwork,NaiveBayes.ipynb)
+- This project utilized a pipeline to effectively run and return metric results for 7 different machine learning models using two different text preprocessing methods. The goal of this project was not to optimize the model itself but to see exactly what method of preprocessing worked best for each model.
 
 [Word2Vec Model](/assets/Word2Vec_Model.ipynb)
+- This project was my introduction to text preprocessing. The model used 400 Yelp reviews and sucessfuly removed puncuation, capital letters, and stopwords.
