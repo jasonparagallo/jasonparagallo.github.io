@@ -44,4 +44,4 @@ Business Management Intern @ Enterprise Holdings | Wayne, NJ | May 2022 – Augu
 - This project utilized a pipeline to effectively run and return metric results for 7 different machine learning models using two different text preprocessing methods. The goal of this project was not to optimize the model itself but to see exactly what method of preprocessing worked best for each model.
 
 [Word2Vec Preprocessing](/assets/Word2Vec_Model.ipynb)
-- This project was my introduction to text preprocessing. The model used 400 Yelp reviews and successfully removed punctuation, capital letters, and stopwords.
+- This project was my introduction to text preprocessing. I used 400 Yelp reviews and successfully preprocessed and removed punctuation, capital letters, and stopwords from every review.
