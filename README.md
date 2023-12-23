@@ -37,7 +37,7 @@ Business Management Intern @ Enterprise Holdings | Wayne, NJ | May 2022 – Augu
 - This clustering model aimed to cluster restaurants of similar cuisines utilizing Yelp reviews from restaurants local to NJ and NY. The model was able to effectiveley decipher different styles of cuisine and group them with competitors.
   
 [NHL Prediction Model](/assets/NHL_Prediction_Model.ipynb)
-- This was my final project for my Structured Data Analytics Course. The team that I had worked and I had decided to create a model that predicted the outcome of National Hockey League games. This was a particularly fun project since our group was all fans of the sport so we were able to run our model each night of the NHL season to see how our model was performing in that years current season.
+- This was my final project for my Structured Data Analytics Course. The team that I had worked with and I had decided to create a model that predicted the outcome of National Hockey League games. This was a particularly fun project since our group was all fans of the sport so we were able to run our model each night of the NHL season to see how our model was performing in that years current season.
 
 [Various Machine Learning Models to Predict Yelp Restaurant Ratings](/assets/Preprocessing+LogisticRegression,SupportVectorMachine,DecisionTree,RandomForest,AdaBoost,NeuralNetwork,NaiveBayes.ipynb)
 - This project utilized a pipeline to effectively run and return metric results for 7 different machine learning models using two different text preprocessing methods. The goal of this project was not to optimize the model itself but to see exactly what method of preprocessing worked best for each model.
