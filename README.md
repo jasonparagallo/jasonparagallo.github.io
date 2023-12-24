@@ -1,5 +1,6 @@
 # Jason Paragallo
-973-800-4517 | jasonparagallo@gmail.com
+jasonparagallo@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jason-paragallo/)
 
 ## Education
 - Montclair State University, Montclair, NJ
@@ -28,9 +29,6 @@ Business Management Intern @ Enterprise Holdings | Wayne, NJ | May 2022 – Augu
 - Microsoft Power BI For Business Intelligence [Certification](https://udemy-certificate.s3.amazonaws.com/pdf/UC-6c9c8345-8352-4e01-b066-a167d1f86920.pdf)
 
 ## Projects
-
-### All created using [Google Colab](https://colab.google/)
-
 [Amazon Fake Product Model](/assets/Amazon_Fake_Product_Model.ipynb)
 - This was my final project for my Unstructured Data Analytics Course. The mission was to create a model that effectively detected whether a listing on Amazon was selling a fake product or not using the reviews of that particular product. The team that I worked with and I individually provided each review (852) a numerical representation so our model could ingest the data. We labeled reviews not mentioning quality issues/knockoff concerns as a 0, reviews that mentioned the product was potentially a knockoff a 1, and reviews we were unsure of a 2.
     
