@@ -1,6 +1,6 @@
 # Jason Paragallo
-jasonparagallo@gmail.com
-[LinkedIn](https://www.linkedin.com/in/jason-paragallo/)
+- jasonparagallo@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/jason-paragallo/)
 
 ## Education
 - Montclair State University, Montclair, NJ
