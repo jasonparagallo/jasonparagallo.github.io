@@ -9,13 +9,20 @@
 - Cumulative GPA: 3.75, Major GPA 3.7; Cum Laude
 
 ## Experience
+
+Data Analyst (Engineering) @ SDG Group | Bedminster, NJ | August 2024 – January 2025
+- Redesigned a report previously pulling data redundantly from Postgres and migrated it to BigQuery, improving the report’s Airflow Dag execution time
+- Adjusted Airflow DAG's to automate email notifications, providing scheduled updates on file counts within Google Cloud Storage buckets
+- Assisted in upgrading airflow libraries across 50+ DAGs, validating compatibility, monitoring errors in the Airflow UI, and troubleshooting to resolve issues
+- Updated 30+ schemas from Big Query into our Github repo to prevent potential conflict and maintain database consistency
+
 Data Analyst Intern @ Crestron Electronics | Rockleigh, NJ | May 2023 – August 2023
-- Assisted in the migration from Oracle to Salesforce database by building queries using SQL that made tables closely resembling the tables used in Oracle
-- Supported employees and departments by collecting requests, structuring SQL queries, then building Power BI visualizations to extract and visualize insights from the database
+- Supported technical account managers (TAMs) by gathering requests, creating SQL queries, and developing Power BI dashboards to extract and visualize insights enabling TAMs to secure key client transactions
+- Assisted in the migration of tables from Oracle to Salesforce by writing queries using SQL that replicated the original tables in Oracle 
 - Created measures utilizing DAX functions within Power BI to engineer important features providing a more comprehensive view of the data
 
 IT Service Desk Technician @ Montclair State University | Montclair, NJ | December 2021 – May 2023
-- Monitored ServiceNow ticketing service to track client tech incidents, promptly replied to tickets via phone or email, and initiated the loan process of campus tech equipment
+- Monitored ServiceNow ticketing service to track and close over 600 client tech incidents, promptly replied to tickets via phone or email, and initiated the loan process of campus tech equipment
 - Utilized the remote support software Bomgar to resolve common technical issues, such as network printer configurations, driver updates, and mapping network drives
 - Provided walk in Mac and PC technical support for faculty, staff, and students
 
@@ -23,6 +30,10 @@ Business Management Intern @ Enterprise Holdings | Wayne, NJ | May 2022 – Augu
 - Worked in the North Jersey corporate accounting department responsible for flux analysis to identify balance differences and writing reimbursements to employees and contractors
 - Created an Interactive scheduling tool using VBA and advanced functions in Excel that helped efficiently track all North Jersey Enterprise rental branch employee hours
 - Built heat maps and other various visualizations inside of excel for branch managers
+
+Co-Head Coach - Junior Varsity & Defensive Coach - Varsity Hockey @ Lakeland Regional Highschool | Wanaque, NJ | November 2024 – Present
+- Co-lead the junior varsity program by managing attendance for travel, organizing practice plans, and implementing game systems tailored to players skill levels 
+- Serve as defensive coach for the varsity program overseeing matchups, players rotations, and providing in game adjustments 
 
 ## Certifications
 - Tableau Desktop Specialist [Certification](https://www.credly.com/badges/cf4bf743-45dc-409d-8784-00eecaf84855/public_url)
